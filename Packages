@@ -1,0 +1,17 @@
+Package: com.gamepad.masterss
+Version: 2.9.9-27
+Architecture: iphoneos-arm
+Maintainer: gamepadmaster
+Installed-Size: 20684
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: debs/com.gamepad.masterss_2.9.9-27_iphoneos-arm.deb
+Size: 3478512
+MD5sum: 0f4dc794c2c663250ff1332ed7de8d41
+SHA1: d460ac291dd980bfb9d4d8d02734b0cc3470ace3
+SHA256: a6842b39134b38b9c3b7c387383ca23e365abe5e5b463e52a1febb9cb64a6b73
+Section: Tweaks
+Homepage: http://apt.sgpei.com
+Description: 通过此插件，可支持苹果原生MFi 手柄游戏，并可提供触屏按键映射功能。
+Author: gamepadmaster
+Name: 手柄大师
+

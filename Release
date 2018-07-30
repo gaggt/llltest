@@ -1,0 +1,9 @@
+Origin: gaggt's Repo
+Label: gaggt's Repo
+Suite: stable
+Version: 1.0
+Codename: gaggt
+Architectures: iphoneos-arm
+Components: main
+Description: gaggt's Cydia Repo
+MD5Sum:
