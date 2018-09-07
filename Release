@@ -1,9 +1,9 @@
-Origin: gamesir's Repo
-Label: gamesir's Repo
+Origin: Gamesir's Repo
+Label: Gamesir's Repo
 Suite: stable
 Version: 1.0
-Codename: gaggt
+Codename: Gamesir
 Architectures: iphoneos-arm
 Components: main
-Description: gaggt's Cydia Repo
+Description: Gamesir's Cydia Repo
 MD5Sum:
